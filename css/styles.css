@@ -166,7 +166,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #467370;
+  color: #a65d21;
   text-decoration: underline;
 }
 
@@ -2958,7 +2958,7 @@ fieldset:disabled a.btn {
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #467370;
+  color: #a65d21;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -4658,7 +4658,7 @@ input[type=button].btn-block {
 }
 .page-link:hover {
   z-index: 2;
-  color: #467370;
+  color: #a65d21;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -9908,7 +9908,7 @@ button.bg-black:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #467370 !important;
+  color: #a65d21 !important;
 }
 
 .text-secondary {
@@ -10183,7 +10183,7 @@ body {
     color: #e06904;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #a65d21;
   }
   #mainNav.navbar-shrink .nav-link.active {
     color: #e06904;
